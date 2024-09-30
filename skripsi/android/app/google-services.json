@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350537715505",
+    "project_id": "monitoring-parameter",
+    "storage_bucket": "monitoring-parameter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350537715505:android:2138777f683eebb5e8ea10",
+        "android_client_info": {
+          "package_name": "com.example.skripsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOhB4PIW82iws4OSK7RQA3Jb3PwEAcMQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
